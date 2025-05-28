@@ -15,6 +15,7 @@
             --light-gray: #f5f5f5;
             --border-radius: 4px;
         }
+        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
@@ -211,6 +212,14 @@
                 <div><a href="https://pten4ikq.github.io/ptensas/Неделя 2/Задание 6/task5.html">Задача 5</a></div>
             </div>
         </div>
+            <div class="week">
+            <h2>Итоговый проект</h2>
+            <div class="subtasks">
+                <div>
+                    <p>P.S. Скоро будет доступен...</p>
+                    <img src="https://i.pinimg.com/736x/2b/90/bd/2b90bd4329f282d41b95a6325d4a262e.jpg" width="250">
+                </div>
+            </div>
     </div>
 </body>
 </html>
