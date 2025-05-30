@@ -213,12 +213,18 @@
             </div>
         </div>
             <div class="week">
-            <h2>Итоговый проект</h2>
             <div class="subtasks">
-                <div>
-                    <p>P.S. Скоро будет доступен...</p>
-                    <img src="https://i.pinimg.com/736x/2b/90/bd/2b90bd4329f282d41b95a6325d4a262e.jpg" width="250">
-                </div>
+                <h2>Итоговый проект (размещенный сайт)</h2>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Сверстанный%20сайт/index.html">Итоговый проект</a></div>
+                <h2>Дизайн-макеты для итогового проекта</h2>
+                <div><a href="https://github.com/pten4ikq/ptensas/tree/main/Итоговый%20проект/Дизайн-макеты">Размещены в репозитории</a></div>
+                <h2>Дополнительные задания</h2>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Доп.%20задания/task1.html">Задача 1</a></div>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Доп.%20задания/task2.html">Задача 2</a></div>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Доп.%20задания/task3.html">Задача 3</a></div>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Доп.%20задания/task4.html">Задача 4</a></div>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Доп.%20задания/task5.html">Задача 5</a></div>
+                <div><a href="https://pten4ikq.github.io/ptensas/Итоговый%20проект/Доп.%20задания/task6.html">Задача 6</a></div>
             </div>
     </div>
 </body>
